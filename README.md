@@ -23,5 +23,10 @@ This project is an interactive HR Analytics Dashboard built using Microsoft Exce
 - Training Outcome Analysis
 - Interactive Slicers
 
+## Dashboard Preview
+
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
+
+
 ## Author
 Navya Ramesh
